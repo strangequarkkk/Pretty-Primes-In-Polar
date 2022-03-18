@@ -48,7 +48,7 @@ for n in range(0,n2+1):
         px , py = polar2cart(n,n)
         ax.plot(px,py,'.')
 
-# after the else statement part of the loop is executed i.e. a prime is found, the function polar 2 cart converts the 
+# when the else statement part of the loop is executed i.e. a prime is found, the function polar 2 cart converts the 
 # plane polar coordinates to cartesian coordinates to plot the prime.
 
 
