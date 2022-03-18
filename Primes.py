@@ -19,7 +19,7 @@ theta is an angle in radians
     y=r*np.sin(theta)
     return x,y
 
-#primes between 0 and n2
+#integer range between 0 and n2
 
 n2 = 10000    
 
