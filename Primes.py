@@ -1,4 +1,4 @@
-#Primes in Polar
+
 
 import numpy as np 
 import matplotlib.pyplot as plt
