@@ -1,3 +1,3 @@
 # Pretty-Primes-In-Polar
 
-I wrote a program to plot primes in polar coordinates.
+A program to plot primes inbetween an integer range in polar coordinates.
